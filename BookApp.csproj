@@ -16,4 +16,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Views\Purchase\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Purchase\" />
+  </ItemGroup>
 </Project>
