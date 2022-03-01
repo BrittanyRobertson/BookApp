@@ -47,8 +47,6 @@ namespace BookApp.Models
         }
     }
 
-
-
     public class CartLineItem
     {
         public int LineID { get; set; }

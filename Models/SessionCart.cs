@@ -2,11 +2,20 @@
 using System.Text.Json.Serialization;
 using BookApp.Infrastructure;
 using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace BookApp.Models
 {
     public class SessionCart : Cart
     {
+        public static Cart GetCart(IServiceProvider services)
+        {
+            ISession session = services.GetRequiredService<IHttpContextAccessor>()?.HttpContext.Session;
+            SessionCart cart = session?.GetJson<SessionCart>("Basket") ?? new SessionCart();
+
+            return cart;
+        }
+
         [JsonIgnore]
         public ISession Session { get; set; }
 
