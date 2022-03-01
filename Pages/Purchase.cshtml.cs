@@ -33,5 +33,10 @@ namespace BookApp.Pages
 
             return RedirectToPage(new { ReturnUrl = returnUrl });
         }
+
+        public IActionResult OnPostRemove()
+        {
+
+        }
     }
 }

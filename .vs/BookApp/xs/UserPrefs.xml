@@ -1,5 +1,5 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Purchase.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Purchase.cshtml">
     <Files>
       <File FileName="Views/Home/Index.cshtml" Line="18" Column="1" />
       <File FileName="Program.cs" Line="18" Column="80" />
@@ -7,7 +7,8 @@
       <File FileName="Models/Cart.cs" Line="48" Column="6" />
       <File FileName="Models/SessionCart.cs" Line="14" Column="90" />
       <File FileName="Startup.cs" Line="43" Column="80" />
-      <File FileName="Pages/Purchase.cshtml.cs" Line="34" Column="1" />
+      <File FileName="Pages/Purchase.cshtml.cs" Line="25" Column="42" />
+      <File FileName="Pages/Purchase.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,9 +16,7 @@
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Purchase.cshtml" expanded="True">
-                  <Node name="Purchase.cshtml.cs" selected="True" />
-                </Node>
+                <Node name="Purchase.cshtml" expanded="True" selected="True" />
               </Node>
             </Node>
           </Node>
