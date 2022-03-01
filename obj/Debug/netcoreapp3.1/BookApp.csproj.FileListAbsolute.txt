@@ -1,0 +1,162 @@
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.csproj.AssemblyReference.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.AssemblyInfoInputs.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.AssemblyInfo.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.csproj.CoreCompileInputs.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.RazorAssemblyInfo.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.RazorAssemblyInfo.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/staticwebassets/BookApp.StaticWebAssets.Manifest.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/staticwebassets/BookApp.StaticWebAssets.xml
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/scopedcss/bundle/BookApp.styles.css
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.TagHelpers.input.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.TagHelpers.output.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.RazorCoreGenerate.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Pages/Purchase.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Pages/_Layout.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Categories/Default.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.RazorTargetAssemblyInfo.cache
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.RazorTargetAssemblyInfo.cs
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.dll
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.pdb
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/BookApp.deps.json
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/BookApp.runtimeconfig.json
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/BookApp.runtimeconfig.dev.json
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/BookApp.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/BookApp.pdb
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/BookApp.Views.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/BookApp.Views.pdb
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (matt's)/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.Views.pdb
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.csproj.CopyComplete
+/Users/brittany/Downloads/BookApp (matt's)/obj/Debug/netcoreapp3.1/BookApp.genruntimeconfig.cache
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/BookApp.deps.json
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/BookApp.runtimeconfig.json
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/BookApp.runtimeconfig.dev.json
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/BookApp.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/BookApp.pdb
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/BookApp.Views.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/BookApp.Views.pdb
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (mission 8)/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.csproj.AssemblyReference.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.AssemblyInfoInputs.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.AssemblyInfo.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.csproj.CoreCompileInputs.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.RazorAssemblyInfo.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.RazorAssemblyInfo.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/staticwebassets/BookApp.StaticWebAssets.Manifest.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/staticwebassets/BookApp.StaticWebAssets.xml
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/scopedcss/bundle/BookApp.styles.css
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.TagHelpers.input.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.TagHelpers.output.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.RazorCoreGenerate.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Pages/Purchase.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Pages/_Layout.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Views/Shared/BookSummary.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Categories/Default.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.RazorTargetAssemblyInfo.cache
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.RazorTargetAssemblyInfo.cs
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.Views.pdb
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.csproj.CopyComplete
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.dll
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.pdb
+/Users/brittany/Downloads/BookApp (mission 8)/obj/Debug/netcoreapp3.1/BookApp.genruntimeconfig.cache
