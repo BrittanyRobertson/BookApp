@@ -6,20 +6,28 @@
     <title>@ViewData["Title"] - Book Store</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <link href="/lib/font-awesome/css/all.min.css" rel="stylesheet" />
 </head>
 <body>
-@*Creates a nice black header at the top with a title*@
+    @*Creates a nice black header at the top with a title*@
     <div class="bg-dark text-white p-2">
-        <span class="navbar-brand m-lg-2">THE BOOK STORE</span>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col navbar-brand m-lg-2">THE BOOK STORE</div>
+                <div class="col-6 text-right">
+                        <vc:cart-summary />
+                </div>
+            </div>
+        </div>
     </div>
 
-@*dynamically brings in all the categories on the side*@
+    @*dynamically brings in all the categories on the side*@
     <div class="row m-1 p-1">
         <div id="types" class="col-3">
             <vc:categories></vc:categories>
         </div>
 
-@*pulls in the body from the other views*@
+        @*pulls in the body from the other views*@
         <div class="col-9">
             <div>
                 @RenderBody()

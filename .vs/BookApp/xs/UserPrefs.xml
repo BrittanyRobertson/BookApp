@@ -1,27 +1,46 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Purchase.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/BookSummary.cshtml">
     <Files>
       <File FileName="Pages/Purchase.cshtml.cs" Line="21" Column="22" />
       <File FileName="Pages/Purchase.cshtml" Line="48" Column="78" />
       <File FileName="Models/Purchase.cs" Line="35" Column="44" />
       <File FileName="Views/Checkout.cshtml" Line="12" Column="65" />
-      <File FileName="Controllers/PurchaseController.cs" Line="38" Column="29" />
+      <File FileName="Controllers/PurchaseController.cs" Line="13" Column="45" />
       <File FileName="Models/IPurchaseRepository.cs" Line="10" Column="53" />
       <File FileName="Models/EFPurchaseRepository.cs" Line="18" Column="15" />
       <File FileName="Pages/Confirmation.cshtml" Line="7" Column="69" />
+      <File FileName="Components/CartSummaryViewComponent.cs" Line="14" Column="45" />
+      <File FileName="Views/Shared/Components/CartSummary/Default.cshtml" Line="18" Column="68" />
+      <File FileName="Models/Cart.cs" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="18" Column="44" />
+      <File FileName="Startup.cs" Line="37" Column="73" />
+      <File FileName="Views/Shared/BookSummary.cshtml" Line="20" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
+              <Node name="Components" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Purchase.cshtml" selected="True" />
-              </Node>
               <Node name="Views" expanded="True">
                 <Node name="Purchase" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="CartSummary" expanded="True" />
+                  </Node>
+                  <Node name="BookSummary.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="font-awesome" expanded="True">
+                    <Node name="css" expanded="True">
+                      <Node name="all.css" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
               </Node>
             </Node>
           </Node>
