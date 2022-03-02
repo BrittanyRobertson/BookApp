@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using BookApp.Models;
 using Microsoft.AspNetCore.Mvc;
 
+// controller for the purchase specifically
 namespace BookApp.Controllers
 {
     public class PurchaseController : Controller
@@ -38,7 +39,7 @@ namespace BookApp.Controllers
                 repo.SavePurchase(purchase);
                 cart.ClearCart();
 
-                return View();
+                return RedirectToPage("/Confirmation");
             }
             else
             {

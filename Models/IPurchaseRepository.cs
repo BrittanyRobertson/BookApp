@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace BookApp.Models
 {
-    public class IPurchaseRepository
+    public interface IPurchaseRepository
     {
         IQueryable<Purchase> Purchases { get; }
 

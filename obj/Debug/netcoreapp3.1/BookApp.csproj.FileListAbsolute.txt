@@ -242,3 +242,4 @@
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/BookApp.pdb
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/BookApp.genruntimeconfig.cache
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Views/Purchase/Checkout.cshtml.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Confirmation.cshtml.g.cs
