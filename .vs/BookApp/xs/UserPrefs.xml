@@ -1,5 +1,5 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PurchaseController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20220302000243_Initial.cs">
     <Files>
       <File FileName="Views/Home/Index.cshtml" Line="18" Column="1" />
       <File FileName="Views/Shared/_Layout.cshtml" Line="15" Column="1" />
@@ -7,19 +7,21 @@
       <File FileName="Models/SessionCart.cs" Line="14" Column="67" />
       <File FileName="Startup.cs" Line="53" Column="14" />
       <File FileName="Pages/Purchase.cshtml.cs" Line="21" Column="22" />
-      <File FileName="Pages/Purchase.cshtml" Line="48" Column="44" />
+      <File FileName="Pages/Purchase.cshtml" Line="48" Column="78" />
       <File FileName="Models/Purchase.cs" Line="35" Column="44" />
       <File FileName="Models/BookstoreContext.cs" Line="23" Column="53" />
       <File FileName="Views/Checkout.cshtml" Line="53" Column="9" />
-      <File FileName="Controllers/PurchaseController.cs" Line="14" Column="38" />
+      <File FileName="Controllers/PurchaseController.cs" Line="14" Column="37" />
+      <File FileName="Migrations/20220301235810_Initial.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20220302000243_Initial.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="PurchaseController.cs" selected="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20220302000243_Initial.cs" selected="True" />
               </Node>
             </Node>
           </Node>
