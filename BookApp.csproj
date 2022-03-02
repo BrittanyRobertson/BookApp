@@ -16,4 +16,12 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Views\Purchase\" />
+    <None Remove="Views\Shared\Components\CartSummary\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Purchase\" />
+    <Folder Include="Views\Shared\Components\CartSummary\" />
+  </ItemGroup>
 </Project>
