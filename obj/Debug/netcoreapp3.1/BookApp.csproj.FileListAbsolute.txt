@@ -245,3 +245,11 @@
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Confirmation.cshtml.g.cs
 /Users/brittany/Documents/GitHub/BookApp/bin/Debug/netcoreapp3.1/libman.json
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/CartSummary/Default.cshtml.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/BookApp.RazorComponent.input.cache
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Books.razor.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Orders.razor.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/BookApp.RazorComponent.output.cache
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/RazorDeclaration/BookApp.dll
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Books.razor.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Orders.razor.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Index.cshtml.g.cs
