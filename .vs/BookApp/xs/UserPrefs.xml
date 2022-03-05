@@ -1,10 +1,12 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Admin/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Admin/_Imports.razor">
     <Files>
       <File FileName="Pages/Admin/Books.razor" Line="1" Column="20" />
       <File FileName="Pages/Admin/Orders.razor" Line="1" Column="21" />
       <File FileName="Startup.cs" Line="92" Column="83" />
-      <File FileName="Pages/Admin/Index.cshtml" Line="1" Column="14" />
+      <File FileName="Pages/Admin/Index.cshtml" Line="20" Column="8" />
+      <File FileName="Pages/Admin/Routed.razor" Line="1" Column="1" />
+      <File FileName="Pages/Admin/_Imports.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +15,7 @@
             <Node name="BookApp" expanded="True">
               <Node name="Pages" expanded="True">
                 <Node name="Admin" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
+                  <Node name="_Imports.razor" selected="True" />
                 </Node>
                 <Node name="Purchase.cshtml" expanded="True" />
               </Node>
