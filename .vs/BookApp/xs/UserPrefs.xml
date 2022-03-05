@@ -1,35 +1,26 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Admin/AdminLayout.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Purchase.cs">
     <Files>
       <File FileName="Pages/Admin/Books.razor" Line="1" Column="20" />
       <File FileName="Pages/Admin/Orders.razor" Line="1" Column="21" />
       <File FileName="Startup.cs" Line="92" Column="83" />
-      <File FileName="Pages/Admin/Index.cshtml" Line="20" Column="8" />
+      <File FileName="Pages/Admin/Index.cshtml" Line="17" Column="55" />
       <File FileName="Pages/Admin/Routed.razor" Line="11" Column="10" />
       <File FileName="Pages/Admin/_Imports.razor" Line="8" Column="22" />
-      <File FileName="Pages/Admin/AdminLayout.razor" Line="1" Column="30" />
+      <File FileName="Pages/Admin/AdminLayout.razor" Line="13" Column="93" />
+      <File FileName="Models/Purchase.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="AdminLayout.razor" selected="True" />
-                </Node>
-                <Node name="Purchase.cshtml" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Purchase.cs" selected="True" />
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="lib" expanded="True">
-                  <Node name="bootstrap" expanded="True">
-                    <Node name="dist" expanded="True">
-                      <Node name="css" expanded="True">
-                        <Node name="bootstrap.css" expanded="True" />
-                      </Node>
-                    </Node>
-                  </Node>
-                </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Admin" expanded="True" />
+                <Node name="Purchase.cshtml" expanded="True" />
               </Node>
             </Node>
           </Node>
