@@ -1,11 +1,11 @@
 ﻿@page "/admin/orders"
 @inherits OwningComponentBase<IPurchaseRepository>
 
-<OrderTable TableTitle="Unshipped Orders" Donations="UnshippedOrders"
-               ButtonLabel="Shipped" DonationSelected="ResetOrder"></OrderTable>
+<OrderTable TableTitle="Unshipped Orders" Purchases="UnshippedOrders"
+               ButtonLabel="Shipped" OrderSelected="ShipOrder"></OrderTable>
 
-<OrderTable TableTitle="Collected Donations" Donations="ShippedOrders"
-               ButtonLabel="Reset" DonationSelected="ShipOrder"></OrderTable>
+<OrderTable TableTitle="Collected Donations" Purchases="ShippedOrders"
+               ButtonLabel="Reset" OrderSelected="ResetOrder"></OrderTable>
 
 <button class="btn btn-info" @onclick="@(x=> UpdateData())">Refresh Data</button>
 
