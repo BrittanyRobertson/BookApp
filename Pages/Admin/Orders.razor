@@ -4,7 +4,7 @@
 <OrderTable TableTitle="Unshipped Orders" Purchases="UnshippedOrders"
                ButtonLabel="Shipped" OrderSelected="ShipOrder"></OrderTable>
 
-<OrderTable TableTitle="Collected Donations" Purchases="ShippedOrders"
+<OrderTable TableTitle="Shipped Orders" Purchases="ShippedOrders"
                ButtonLabel="Reset" OrderSelected="ResetOrder"></OrderTable>
 
 <button class="btn btn-info" @onclick="@(x=> UpdateData())">Refresh Data</button>
