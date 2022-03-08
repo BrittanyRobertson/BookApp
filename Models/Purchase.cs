@@ -35,6 +35,6 @@ namespace BookApp.Models
         public string Country { get; set; }
 
         [BindNever]
-        public bool OrderShipped { get; set; }
+        public bool OrderShipped { get; set; } = false;
     }
 }
