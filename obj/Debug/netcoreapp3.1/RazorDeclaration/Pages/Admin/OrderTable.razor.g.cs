@@ -53,8 +53,7 @@ using BookApp.Models;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/admin/orders")]
-    public partial class Orders : OwningComponentBase<IPurchaseRepository>
+    public partial class OrderTable : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -62,36 +61,22 @@ using BookApp.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 12 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/Orders.razor"
+#line 45 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/OrderTable.razor"
        
 
-    public IPurchaseRepository repo => Service;
+    [Parameter]
+    public string TableTitle { get; set; } = "Orders";
 
-    public IEnumerable<Purchase> AllOrders { get; set; }
-    public IEnumerable<Purchase> UnshippedOrders { get; set; }
-    public IEnumerable<Purchase> ShippedOrders { get; set; }
+    [Parameter]
+    public IEnumerable<Purchase> Purchases { get; set; }
 
-    protected async override Task OnInitializedAsync()
-    {
-        await UpdateData();
-    }
+    [Parameter]
+    public string ButtonLabel { get; set; } = "Shipped";
 
-    public async Task UpdateData()
-    {
-        AllOrders = await repo.Purchases.ToListAsync();
-        UnshippedOrders = AllOrders.Where(x => !x.OrderShipped);
-        ShippedOrders = AllOrders.Where(x => x.OrderShipped);
-    }
 
-    public void ShipOrder(int id) => UpdateOrder(id, true);
-    public void ResetOrder(int id) => UpdateOrder(id, false);
+    [Parameter]
+    public EventCallback<int> OrderSelected { get; set; }
 
-    private void UpdateOrder(int id, bool shipped)
-    {
-        Purchase p = repo.Purchases.FirstOrDefault(x => x.PurchaseId == id);
-        p.OrderShipped = shipped;
-        repo.SavePurchase(p);
-    }
 
 #line default
 #line hidden

@@ -1,27 +1,25 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Admin/OrderTable.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/EFBookstoreRepository.cs">
     <Files>
       <File FileName="Pages/Admin/Books.razor" Line="1" Column="20" />
-      <File FileName="Pages/Admin/Orders.razor" Line="1" Column="21" />
+      <File FileName="Pages/Admin/Orders.razor" Line="7" Column="39" />
       <File FileName="Startup.cs" Line="92" Column="83" />
       <File FileName="Pages/Admin/Index.cshtml" Line="17" Column="55" />
       <File FileName="Pages/Admin/Routed.razor" Line="11" Column="10" />
       <File FileName="Pages/Admin/_Imports.razor" Line="8" Column="22" />
-      <File FileName="Pages/Admin/AdminLayout.razor" Line="13" Column="93" />
+      <File FileName="Pages/Admin/AdminLayout.razor" Line="12" Column="42" />
       <File FileName="Models/Purchase.cs" Line="37" Column="19" />
-      <File FileName="Pages/Admin/OrderTable.razor" Line="1" Column="1" />
+      <File FileName="Pages/Admin/OrderTable.razor" Line="20" Column="117" />
+      <File FileName="Models/IBookstoreRepository.cs" Line="12" Column="36" />
+      <File FileName="Models/EFBookstoreRepository.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="OrderTable.razor" selected="True" />
-                </Node>
-                <Node name="Purchase.cshtml" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="EFBookstoreRepository.cs" selected="True" />
               </Node>
             </Node>
           </Node>

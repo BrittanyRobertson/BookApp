@@ -259,3 +259,5 @@
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/AdminLayout.razor.g.cs
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Routed.razor.g.cs
 /Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_Imports.razor.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/OrderTable.razor.g.cs
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/OrderTable.razor.g.cs
