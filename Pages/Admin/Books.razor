@@ -12,36 +12,36 @@
     </thead>
 
     <tbody>
-        @*check if there's anything to display in the first place*@
-        @if (BookData?.Count() > 0)
-        {
-            // Lists the projects
-            @foreach (Book b in BookData)
-            {
-                <tr>
-                    <td>@b.BookId</td>
-                    <td>@b.Title</td>
-                    <td>@b.Category</td>
-
-                    <td>
-                        <NavLink class="btn btn-info btn-sm" href="@GetDetailsUrl(b.BookId)">Details</NavLink>
-                    </td>
-                    <td>
-                        <NavLink class="btn btn-warning btn-sm" href="@GetEditUrl(b.BookId)">Edit</NavLink>
-                    </td>
-
-                    <td>
-                        <button class="btn btn-danger btn-sm" @onclick="@(x => RemoveBook(b))">Delete</button>
-                    </td>
-                </tr>
-            }
-        }
-        else
+    @*check if there's anything to display in the first place*@
+    @if (BookData?.Count() > 0)
+    {
+        // Lists the projects
+        @foreach (Book b in BookData)
         {
             <tr>
-                <td colspan="5" class="text-center">No Books</td>
+                <td>@b.BookId</td>
+                <td>@b.Title</td>
+                <td>@b.Category</td>
+
+                <td>
+                    <NavLink class="btn btn-info btn-sm" href="@GetDetailsUrl(b.BookId)">Details</NavLink>
+                </td>
+                <td>
+                    <NavLink class="btn btn-warning btn-sm" href="@GetEditUrl(b.BookId)">Edit</NavLink>
+                </td>
+
+                <td>
+                    <a class="btn btn-danger btn-sm" @onclick="@(x => RemoveBook(b))">Delete</a>
+                </td>
             </tr>
         }
+    }
+    else
+    {
+        <tr>
+            <td colspan="5" class="text-center">No Books</td>
+        </tr>
+    }
     </tbody>
 
 </table>
