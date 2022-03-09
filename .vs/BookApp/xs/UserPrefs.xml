@@ -1,10 +1,11 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Admin/Details.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Admin/Editor.razor">
     <Files>
-      <File FileName="Pages/Admin/Books.razor" Line="70" Column="18" />
+      <File FileName="Pages/Admin/Books.razor" Line="44" Column="6" />
       <File FileName="Models/Purchase.cs" Line="38" Column="56" />
-      <File FileName="Pages/Admin/Details.razor" Line="7" Column="5" />
+      <File FileName="Pages/Admin/Details.razor" Line="20" Column="54" />
       <File FileName="Models/Book.cs" Line="1" Column="1" />
+      <File FileName="Pages/Admin/Editory.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +15,7 @@
               <Node name="Models" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="Admin" expanded="True">
-                  <Node name="Details.razor" selected="True" />
+                  <Node name="Editor.razor" selected="True" />
                 </Node>
               </Node>
             </Node>
