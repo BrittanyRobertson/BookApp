@@ -16,7 +16,7 @@
     <DataAnnotationsValidator></DataAnnotationsValidator>
 
     <div class="form-group">
-        <label>Book Id</label>
+        <label>Book Id:</label>
         <input class="form-control" disabled value="@b.BookId" />
     </div>
 
@@ -68,7 +68,7 @@
         <InputNumber class="form-control" @bind-Value="b.Price"></InputNumber>
     </div>
 
-    <button type="button" class="btn btn-@ThemeColor">Save</button>
+    <button type="submit" class="btn btn-@ThemeColor">Save</button>
     <NavLink class="btn btn-secondary" href="/admin/books">Cancel</NavLink>
 
 </EditForm>
@@ -104,7 +104,7 @@
             repo.SaveBook(b);
         }
 
-        NavManager.NavigateTo("/admin/books");
+        NavManager.NavigateTo("/admin/books", true);
     }
 
     [Inject]

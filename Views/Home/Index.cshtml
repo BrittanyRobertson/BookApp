@@ -4,7 +4,8 @@
 
 @model BooksViewModel
 
-<h1>The Book Store</h1>
+@*added "jumbotron" attribute as css which made the title much larger and inside of a box*@
+<h1 class="jumbotron">The Book Store</h1>
 
     @foreach (Book b in Model.Books)
     {

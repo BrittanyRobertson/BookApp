@@ -53,9 +53,9 @@ using BookApp.Models;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/admin/books")]
-    [Microsoft.AspNetCore.Components.RouteAttribute("/admin")]
-    public partial class Books : OwningComponentBase<IBookstoreRepository>
+    [Microsoft.AspNetCore.Components.RouteAttribute("/admin/books/edit/{id:long}")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/admin/books/create")]
+    public partial class Editor : OwningComponentBase<IBookstoreRepository>
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -63,30 +63,43 @@ using BookApp.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 52 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/Books.razor"
+#line 76 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/Editor.razor"
        
+
+    [Parameter]
+    public long id { get; set; } = 0;
+
+    public string ThemeColor => id == 0 ? "primary" : "warning";
+    public string TitleText => id == 0 ? "Create" : "Edit";
+
+    public Book b { get; set; } = new Book();
+
     public IBookstoreRepository repo => Service;
 
-    public IEnumerable<Book> BookData { get; set; }
-
-    protected async override Task OnInitializedAsync()
+    protected override void OnParametersSet()
     {
-        await UpdateData();
+        if (id != 0) // existing book
+        {
+            b = repo.Books.FirstOrDefault(x => x.BookId == id);
+        }
+    }
+    // only  within the scope of this Editor page
+    public void SaveBook()
+    {
+        if (id == 0) // new book
+        {
+            repo.CreateBook(b);
+        }
+        else
+        {
+            repo.SaveBook(b);
+        }
+
+        NavManager.NavigateTo("/admin/books", true);
     }
 
-    public async Task UpdateData()
-    {
-        BookData = await repo.Books.ToListAsync();
-    }
-
-    public string GetDetailsUrl(long id) => $"/admin/books/details/{id}";
-    public string GetEditUrl(long id) => $"/admin/books/edit/{id}";
-
-    public async Task RemoveBook(Book b)
-    {
-        repo.DeleteBook(b);
-        await UpdateData();
-    }
+    [Inject]
+    public NavigationManager NavManager { get; set; }
 
 #line default
 #line hidden

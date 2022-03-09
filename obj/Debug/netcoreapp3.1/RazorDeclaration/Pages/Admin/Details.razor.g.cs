@@ -53,7 +53,7 @@ using BookApp.Models;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/admin//books/details/{id:long}")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/admin/books/details/{id:long}")]
     public partial class Details : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -62,11 +62,12 @@ using BookApp.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 18 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/Details.razor"
+#line 23 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/Details.razor"
        
     [Inject]
     public IBookstoreRepository repo { get; set; }
 
+    [Parameter]
     public long id { get; set; }
 
     public Book b { get; set; }
@@ -75,6 +76,8 @@ using BookApp.Models;
     {
         b = repo.Books.FirstOrDefault(x => x.BookId == id);
     }
+
+    public string EditUrl => $"/admin/books/edit/{b.BookId}";
 
 
 #line default
