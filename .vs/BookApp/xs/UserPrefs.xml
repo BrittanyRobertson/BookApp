@@ -1,38 +1,26 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Purchase.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/EFBookstoreRepository.cs">
     <Files>
-      <File FileName="Pages/Purchase.cshtml.cs" Line="21" Column="22" />
-      <File FileName="Pages/Purchase.cshtml" Line="25" Column="104" />
-      <File FileName="Models/Purchase.cs" Line="35" Column="44" />
-      <File FileName="Views/Checkout.cshtml" Line="12" Column="65" />
-      <File FileName="Controllers/PurchaseController.cs" Line="13" Column="45" />
-      <File FileName="Models/IPurchaseRepository.cs" Line="10" Column="53" />
-      <File FileName="Models/EFPurchaseRepository.cs" Line="18" Column="15" />
-      <File FileName="Pages/Confirmation.cshtml" Line="7" Column="69" />
-      <File FileName="Components/CartSummaryViewComponent.cs" Line="14" Column="45" />
-      <File FileName="Views/Shared/Components/CartSummary/Default.cshtml" Line="15" Column="94" />
-      <File FileName="Models/Cart.cs" Line="1" Column="1" />
-      <File FileName="Views/Shared/_Layout.cshtml" Line="18" Column="44" />
-      <File FileName="Startup.cs" Line="37" Column="73" />
-      <File FileName="Views/Shared/BookSummary.cshtml" Line="19" Column="51" />
-      <File FileName="Views/_ViewImports.cshtml" Line="5" Column="28" />
-      <File FileName="Infrastructure/PaginationTagHelper.cs" Line="54" Column="39" />
+      <File FileName="Pages/Admin/Routed.razor" Line="8" Column="86" IsPinned="True" />
+      <File FileName="Pages/Admin/Books.razor" Line="5" Column="96" />
+      <File FileName="Models/Purchase.cs" Line="38" Column="56" />
+      <File FileName="Pages/Admin/Details.razor" Line="5" Column="58" />
+      <File FileName="Models/Book.cs" Line="1" Column="1" />
+      <File FileName="Pages/Admin/Editory.razor" Line="14" Column="26" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="12" Column="60" />
+      <File FileName="Views/Home/Index.cshtml" Line="8" Column="21" />
+      <File FileName="Models/EFBookstoreRepository.cs" Line="25" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
-              <Node name="Infrastructure" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Purchase.cshtml" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="EFBookstoreRepository.cs" selected="True" />
               </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="CartSummary" expanded="True" />
-                  </Node>
-                </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Admin" expanded="True" />
               </Node>
             </Node>
           </Node>
