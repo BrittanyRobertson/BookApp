@@ -1,10 +1,12 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/IdentitySeedData.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Account/Login.cshtml">
     <Files>
       <File FileName="Models/AppIdentityDBContext.cs" Line="12" Column="10" />
       <File FileName="appsettings.json" Line="12" Column="58" />
-      <File FileName="Startup.cs" Line="78" Column="36" />
-      <File FileName="Models/IdentitySeedData.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="107" Column="51" />
+      <File FileName="Models/IdentitySeedData.cs" Line="10" Column="19" />
+      <File FileName="Models/ViewModels/LoginModel.cs" Line="14" Column="6" />
+      <File FileName="Views/Account/Login.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +14,12 @@
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
               <Node name="Models" expanded="True">
-                <Node name="IdentitySeedData.cs" selected="True" />
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True">
+                  <Node name="Login.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
