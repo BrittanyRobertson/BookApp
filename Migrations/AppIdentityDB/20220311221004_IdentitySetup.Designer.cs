@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookApp.Migrations.AppIdentityDB
 {
     [DbContext(typeof(AppIdentityDBContext))]
-    [Migration("20220311205801_IdentitySetup")]
+    [Migration("20220311221004_IdentitySetup")]
     partial class IdentitySetup
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
