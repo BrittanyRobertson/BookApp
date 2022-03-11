@@ -1,17 +1,19 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{E8B4AD08-31BA-48DC-A22B-3FDB2F1B641A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/IdentitySeedData.cs">
     <Files>
       <File FileName="Models/AppIdentityDBContext.cs" Line="12" Column="10" />
       <File FileName="appsettings.json" Line="12" Column="58" />
-      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="78" Column="36" />
+      <File FileName="Models/IdentitySeedData.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookApp" expanded="True">
             <Node name="BookApp" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="IdentitySeedData.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
