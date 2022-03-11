@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace BookApp.Models
 {
-    public class IdentitySeedData
+    public static class IdentitySeedData
     {
         private const string adminUser = "Admin";
         private const string adminPassword = "Password123456!";
