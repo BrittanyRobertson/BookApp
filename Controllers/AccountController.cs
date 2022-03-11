@@ -41,12 +41,16 @@ namespace BookApp.Controllers
                         return Redirect(loginModel?.ReturnUrl ?? "/Admin");
                     }
                 }
+            }
+            ModelState.AddModelError("", "Invalid User Name or Password");
+            return View(loginModel);
+        }
 
-                ModelState.AddModelError("", "Invalid User Name or Password");
-                return View(loginModel);
-            };
+        public async Task<RedirectResult> Logout(string returnUrl = "/")
+        {
+            await signInManager.SignOutAsync();
 
-            return View();
+            return Redirect(returnUrl);
         }
     }
 }
