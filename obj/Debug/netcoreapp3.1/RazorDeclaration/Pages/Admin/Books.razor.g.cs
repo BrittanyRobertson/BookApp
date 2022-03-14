@@ -63,7 +63,7 @@ using BookApp.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 52 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/Books.razor"
+#line 53 "/Users/brittany/Documents/GitHub/BookApp/Pages/Admin/Books.razor"
        
     public IBookstoreRepository repo => Service;
 

@@ -270,3 +270,4 @@
 /Users/brittany/Documents/GitHub/BookApp/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/brittany/Documents/GitHub/BookApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
 /Users/brittany/Documents/GitHub/BookApp/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/brittany/Documents/GitHub/BookApp/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
